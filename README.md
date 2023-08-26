@@ -89,7 +89,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:sumon766/hello-react-rails.git
+  git clone git@github.com:sumon766/hello-rr-backend.git
 ```
 -
 
@@ -114,11 +114,13 @@ To run the project, execute the following command:
 Example command:
 
 ```sh
-  bundle exec rails server
+  rails server
+```
 
-  OR
+### URL for React APP
 
-  ./bin/dev
+```sh
+  http://localhost:3001/
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
